@@ -19,7 +19,7 @@ Je conçois des systèmes complets, de l'architecture électronique à la comman
 
 **Programmation** : Python (numpy, matplotlib, OpenCV), C/C++, Java, MATLAB, Git, LaTeX
 
-**Langues** : Français C2, Arabe C2, Anglais C1, Allemand B1
+**Langues** : Français, Anglais, Allemand, Arabe
 
 
 
